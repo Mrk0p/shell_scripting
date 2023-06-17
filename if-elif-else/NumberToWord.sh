@@ -33,12 +33,4 @@ then
 else
 	echo "please enter single digit number only "
 fi
-elif(( number == 2 ))
-then
-        echo "two"
-elif(( number == 2 ))
-then
-        echo "two"
-elif(( number == 2 ))
-then
-        echo "two"
+
